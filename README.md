@@ -7,6 +7,10 @@ A lightweight framework for fine-tuning cell segmentation models with small data
 
 Supports multiple image types (e.g., HE, SS), with options for training from scratch or using pretrained models.
 
+The project pipeline is as follow:
+
+![flow chart](./docs/images/flow_chart.png)
+
 ---
 
 ## Installation
